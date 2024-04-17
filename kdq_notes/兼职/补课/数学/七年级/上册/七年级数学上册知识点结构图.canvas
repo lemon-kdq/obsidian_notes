@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"eedfca388bc05395","type":"text","text":"七年级数学上册","x":-260,"y":-160,"width":180,"height":60,"color":"4"},
+		{"id":"aa04b4e1af932299","type":"text","text":"认识几何图形","x":112,"y":100,"width":177,"height":60},
+		{"id":"dcba9bb16f33ce2e","type":"text","text":"代数式","x":112,"y":-280,"width":125,"height":66},
+		{"id":"188ed6e86b9604af","type":"text","text":"一元一次方程","x":112,"y":-100,"width":177,"height":60},
+		{"id":"7f4ed62c341ada9f","type":"text","text":"有理数","x":112,"y":-500,"width":120,"height":60,"color":"3"},
+		{"id":"bdcffba21071eb62","type":"text","text":"平面几何初识","x":110,"y":271,"width":179,"height":60},
+		{"id":"299e2e6770ad3f5a","x":347,"y":-558,"width":153,"height":60,"type":"text","text":"正数与负数"}
+	],
+	"edges":[
+		{"id":"25138b19b7c57125","fromNode":"eedfca388bc05395","fromSide":"right","toNode":"7f4ed62c341ada9f","toSide":"left"},
+		{"id":"79e02f8a176173e0","fromNode":"eedfca388bc05395","fromSide":"right","toNode":"dcba9bb16f33ce2e","toSide":"left"},
+		{"id":"8a2454dca29e29ca","fromNode":"eedfca388bc05395","fromSide":"right","toNode":"188ed6e86b9604af","toSide":"left"},
+		{"id":"a7c3e5862160ed12","fromNode":"eedfca388bc05395","fromSide":"right","toNode":"aa04b4e1af932299","toSide":"left"},
+		{"id":"cf20e36383db7d21","fromNode":"eedfca388bc05395","fromSide":"right","toNode":"bdcffba21071eb62","toSide":"left"},
+		{"id":"0885566ae91f5491","fromNode":"7f4ed62c341ada9f","fromSide":"right","toNode":"299e2e6770ad3f5a","toSide":"left"}
+	]
+}
