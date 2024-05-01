@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian中文教程.md",
+                "file": "技术发展/android/android——Jetpack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian中文教程.md",
+                "file": "技术发展/android/android——Jetpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian中文教程.md",
+                "file": "技术发展/android/android——Jetpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidian中文教程.md"
+                "file": "技术发展/android/android——Jetpack.md"
               }
             }
           },
@@ -159,27 +159,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1ef6b93e220c1e0",
+  "active": "55d7932e259133ec",
   "lastOpenFiles": [
+    "技术发展/android/andriod——调试设备的常用指令.md",
+    "技术发展/android/android——Jetpack.md",
+    "兼职/补课/数学/七年级/上册/七年级数学上册知识点总结.md",
+    "兼职/补课/数学/七年级/上册/七年级数学上册知识点结构图.canvas",
+    "兼职/补课/数学/七年级/上册/1_G7-上 数学教学计划20230829 1.xlsx",
+    "兼职/补课/数学/七年级/上册/1_G7-上 数学教学计划20230829.xlsx",
+    "兼职/补课/学生档案/陈骏希/骏希——初中数学知识薄弱点总结.md",
+    "Obsidian/Obsidian中文教程.md",
     "技术发展/android/android camera",
     "技术发展/android",
     "android/android wifi camera",
     "android",
     "兼职/Inmo/android wifi通信",
-    "兼职/补课/学生档案/陈骏希/骏希——初中数学知识薄弱点总结.md",
-    "兼职/补课/数学/七年级/上册/七年级数学上册知识点结构图.canvas",
     "兼职/补课/学生档案/梓涵/梓涵——数学错题分析以及对其教学方法的研究.md",
     "兼职/补课/学生档案/陈骏希",
     "兼职/补课/数学/七年级/下册/未命名.canvas",
-    "兼职/补课/数学/七年级/上册/七年级数学上册知识点总结.md",
     "兼职/补课/数学/七年级/下册",
     "兼职/补课/数学/七年级/上册",
-    "Obsidian/Obsidian中文教程.md",
     "().md",
     "Obisidian中文[教程]().md",
-    "Obsidian",
-    "兼职/补课/学生档案/梓涵",
-    "兼职/补课/学生档案/修凡/未命名",
     "Welcome.md"
   ]
 }
