@@ -8,30 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1ec7e3a40bf7c07",
+            "id": "28c05e81d43fed14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Bosch/工作Tracking/GT/Issues/Livox Lidar 点云问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f1ce8fcda65ee435",
+            "id": "7ff5ffbb4aa6b1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
-                "mode": "preview",
+                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "43e2881be3818cc8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d098885de40e025",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SLAM/Lio-Gnss-Fusion/Lidar和Gnss坐标系对齐.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#也许可以用来做slam真值",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "right": {
     "id": "a5522a70d425553e",
@@ -97,14 +116,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +156,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md"
+              }
+            }
+          },
+          {
+            "id": "837361b3c0b47eb2",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "80d61fc522e18bf4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,16 +195,60 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d1ec7e3a40bf7c07",
+  "active": "7ff5ffbb4aa6b1b0",
   "lastOpenFiles": [
+    "SLAM/Multi-Sensor-Fusion_SLAM/Multi Sensor Fusion SLAM Solution.md",
+    "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
+    "VIO/未命名.md",
+    "VIO/Rolling-Shutter-VIO",
+    "VIO",
+    "Pasted image 20240603165247.png",
+    "Pasted image 20240603161924.png",
+    "Bosch/工作Tracking/GT/GT Lidar和Cam时间同步解决方案.md",
+    "SLAM/Multi-Sensor-Fusion_SLAM/MSF-SLAM Architecture.canvas",
+    "SLAM/Vio-Gnss-Fusion/Tightly_Coupled_Optimization-based_GPS-Visual-Inertial_Odometry_with_Online_Calibration_and_Initialization.pdf",
+    "2024-06-03_10h56_24.gif",
+    "GT03_CAM_1_compressed_image-1672533302-49999872.png",
+    "Pasted image 20240603104444.png",
+    "Pasted image 20240530150922.png",
+    "Bosch/工作Tracking/GT/Issues/Livox Lidar 点云问题.md",
+    "Bosch/工作Tracking/GT/Lidar-Camera-Time-Sync/Lidar和Camera时间无法对齐.md",
+    "Bosch/工作Tracking/GT/Calibration/GT-Calibration-Status-20240530.md",
+    "Debug/使用GDB定位代码bug.md",
+    "Bosch/工作Tracking/GT/Lidar-Camera-Time-Sync",
+    "SLAM/Multi-Sensor-Fusion_SLAM",
+    "SLAM/LidarSlamDeskew/m-detector.pdf",
+    "SLAM/FastLio系列/素材/GT03_CAM_1_compressed_image-1672533515-72000000.png",
+    "SLAM/Lio-Gnss-Fusion/Lidar和Gnss坐标系对齐.md",
+    "SLAM/LIO-SAM/LIO-SAM.pdf",
+    "SLAM/Semantic SLAM/SD-SLAM.pdf",
+    "Bosch/工作Tracking/GT/Issues",
+    "Bosch/工作Tracking/GT/Calibration/GT设备标定状态.md",
+    "SLAM/FastLio系列/Fast_lio_SAM/FAST_LIO_SAM融合GNSS信号问题.md",
+    "SLAM/LidarSlamDeskew",
+    "SLAM/FastLio系列/素材/Pasted image 20240527131354.png",
+    "SLAM/FastLio系列/素材/Pasted image 20240527134928.png",
+    "SLAM/FastLio系列/素材/Pasted image 20240527135612.png",
+    "SLAM/Lio-Gnss-Fusion/VIO或者LIO和GNSS信号对齐.md",
+    "SLAM/FastLio系列/FastLio1和2——算法架构.md",
+    "Sensors Calibration/SensorsCalibration/RadarCalibration/Radar-Calibration.md",
+    "学术期刊/ICRA/ICRA2024/江博大佬分享ICRA2024.md",
+    "SLAM/FastLio系列/未命名.canvas",
+    "SLAM/FastLio系列/FastLio2代码深撸——量测更新部分.md",
+    "SLAM/Lio-Gnss-Fusion/GNSS和Lidar坐标系定义.canvas",
+    "SLAM/Lio-Gnss-Fusion/未命名.canvas",
+    "LidarOdometry/Lidar Scan Register.md",
+    "Coding/ros——MultiThreadedSpinner多线程处理高频率消息发布.md",
+    "[[FAST-LIO2_Fast_Direct_LiDAR-Inertial_Odometry.pdf.md",
+    "SLAM.md",
+    "自动驾驶.md",
+    "未命名.canvas",
     "未命名 1.canvas",
     "Welcome.md",
-    "test.md",
-    "未命名.canvas",
-    "slam.md",
-    "未命名"
+    "test.md"
   ]
 }
