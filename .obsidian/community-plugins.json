@@ -1,5 +1,7 @@
 [
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-annotator"
 ]

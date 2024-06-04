@@ -11,11 +11,34 @@
             "id": "28c05e81d43fed14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bosch/工作Tracking/GT/Issues/Livox Lidar 点云问题.md",
-                "mode": "source",
-                "source": false
+                "file": "SLAM/SLAM_Manual_Readme.canvas",
+                "viewState": {
+                  "x": 606,
+                  "y": 210,
+                  "zoom": -0.28863922198419417
+                }
+              }
+            }
+          },
+          {
+            "id": "4fe747b8ee4cb607",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "VIO/Rolling-Shutter-VIO/rolling-shutter_modelling_for_direct_vio.pdf"
+              }
+            }
+          },
+          {
+            "id": "2e4ae550f0e23f10",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "VIO/Rolling-Shutter-VIO/The_WHU_Rolling_Shutter_Visual-Inertial_Dataset.pdf"
               }
             }
           },
@@ -23,34 +46,14 @@
             "id": "7ff5ffbb4aa6b1b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43e2881be3818cc8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d098885de40e025",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "SLAM/Lio-Gnss-Fusion/Lidar和Gnss坐标系对齐.md"
+                "file": "SLAM/素材/Pasted image 20240603104444.png"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
+                "file": "VIO/Rolling-Shutter-VIO/The_WHU_Rolling_Shutter_Visual-Inertial_Dataset.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +136,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
+                "file": "VIO/Rolling-Shutter-VIO/The_WHU_Rolling_Shutter_Visual-Inertial_Dataset.pdf",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md"
+                "file": "VIO/Rolling-Shutter-VIO/The_WHU_Rolling_Shutter_Visual-Inertial_Dataset.pdf"
               }
             }
           },
@@ -196,59 +199,63 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "7ff5ffbb4aa6b1b0",
+  "active": "2e4ae550f0e23f10",
   "lastOpenFiles": [
-    "SLAM/Multi-Sensor-Fusion_SLAM/Multi Sensor Fusion SLAM Solution.md",
-    "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
-    "VIO/未命名.md",
-    "VIO/Rolling-Shutter-VIO",
-    "VIO",
-    "Pasted image 20240603165247.png",
-    "Pasted image 20240603161924.png",
-    "Bosch/工作Tracking/GT/GT Lidar和Cam时间同步解决方案.md",
-    "SLAM/Multi-Sensor-Fusion_SLAM/MSF-SLAM Architecture.canvas",
-    "SLAM/Vio-Gnss-Fusion/Tightly_Coupled_Optimization-based_GPS-Visual-Inertial_Odometry_with_Online_Calibration_and_Initialization.pdf",
-    "2024-06-03_10h56_24.gif",
-    "GT03_CAM_1_compressed_image-1672533302-49999872.png",
-    "Pasted image 20240603104444.png",
-    "Pasted image 20240530150922.png",
+    "VIO/Rolling-Shutter-VIO/rolling-shutter_modelling_for_direct_vio.pdf",
+    "SLAM/SLAM_Manual_Readme.canvas",
+    "SLAM/Multi-Sensor-Fusion_SLAM/Lidar-Camera-IMU-SLAM/MINS_Efficient_and_Robust_Multisensor-aided_INS.pdf",
+    "Excalidraw/Drawing 2024-06-04 18.26.48.excalidraw.md",
+    "Excalidraw",
+    "VIO/Rolling-Shutter-VIO/RS-VIO Benchmark.md",
+    "Excalidraw/Drawing 2024-06-04 16.58.23.excalidraw.md",
+    "Simulator/Autonomous Driving Simulator.md",
+    "SLAM/LidarOdometry/Lidar Scan Register.md",
+    "学术期刊/SLAM.md",
+    "学术期刊/Highlights for MINS_Efficient_and_Robust_Multisensor-aided_INS.md",
+    "SLAM/LidarSlamDeskew/m-detector.pdf",
     "Bosch/工作Tracking/GT/Issues/Livox Lidar 点云问题.md",
+    "SLAM/Lio-SLAM/FastLio系列/Fast_lio_SAM/FAST_LIO_SAM融合GNSS信号问题.md",
+    "SLAM/Lio-SLAM/FastLio系列/FAST-LIO2_Fast_Direct_LiDAR-Inertial_Odometry.pdf",
+    "SLAM/Multi-Sensor-Fusion_SLAM/Multi Sensor Fusion SLAM Solution.md",
     "Bosch/工作Tracking/GT/Lidar-Camera-Time-Sync/Lidar和Camera时间无法对齐.md",
+    "SLAM/Multi-Sensor-Fusion_SLAM/Lidar-Camera-IMU-SLAM/R3Live.pdf",
+    "SLAM/Lio-SLAM",
+    "SLAM/Dataset",
+    "Bosch/工作Tracking/GT/MSF-SLAM",
+    "Bosch/工作Tracking/GT/Lidar-Deskew",
+    "Sensors/Camera/Rolling Shutter Camera.md",
+    "VIO/Rolling-Shutter-VIO/RS-VIO based on Rovio.md",
+    "Bosch/工作Tracking/GT/GT Lidar和Cam时间同步解决方案.md",
+    "SLAM/素材/Pasted image 20240603104444.png",
+    "SLAM/Lio-SLAM/Lio-Gnss-Fusion/Lidar和Gnss坐标系对齐.md",
+    "SLAM/素材/Pasted image 20240603165247.png",
+    "Bosch/工作Tracking/GT/素材/GT03_CAM_1_compressed_image-1672533302-49999872.png",
+    "Bosch/工作Tracking/GT/素材/Pasted image 20240530150922.png",
+    "Bosch/工作Tracking/GT/素材/2024-06-03_10h56_24.gif",
+    "Pasted image 20240603161924.png",
+    "VIO/素材/sensor_axes_rgb.jpg",
+    "VIO/未命名.md",
+    "SLAM/Multi-Sensor-Fusion_SLAM/MSF-SLAM Architecture.canvas",
     "Bosch/工作Tracking/GT/Calibration/GT-Calibration-Status-20240530.md",
     "Debug/使用GDB定位代码bug.md",
-    "Bosch/工作Tracking/GT/Lidar-Camera-Time-Sync",
-    "SLAM/Multi-Sensor-Fusion_SLAM",
-    "SLAM/LidarSlamDeskew/m-detector.pdf",
-    "SLAM/FastLio系列/素材/GT03_CAM_1_compressed_image-1672533515-72000000.png",
-    "SLAM/Lio-Gnss-Fusion/Lidar和Gnss坐标系对齐.md",
-    "SLAM/LIO-SAM/LIO-SAM.pdf",
-    "SLAM/Semantic SLAM/SD-SLAM.pdf",
-    "Bosch/工作Tracking/GT/Issues",
+    "SLAM/Lio-SLAM/FastLio系列/素材/GT03_CAM_1_compressed_image-1672533515-72000000.png",
     "Bosch/工作Tracking/GT/Calibration/GT设备标定状态.md",
-    "SLAM/FastLio系列/Fast_lio_SAM/FAST_LIO_SAM融合GNSS信号问题.md",
-    "SLAM/LidarSlamDeskew",
-    "SLAM/FastLio系列/素材/Pasted image 20240527131354.png",
-    "SLAM/FastLio系列/素材/Pasted image 20240527134928.png",
-    "SLAM/FastLio系列/素材/Pasted image 20240527135612.png",
-    "SLAM/Lio-Gnss-Fusion/VIO或者LIO和GNSS信号对齐.md",
-    "SLAM/FastLio系列/FastLio1和2——算法架构.md",
-    "Sensors Calibration/SensorsCalibration/RadarCalibration/Radar-Calibration.md",
+    "SLAM/Lio-SLAM/FastLio系列/素材/Pasted image 20240527131354.png",
+    "SLAM/Lio-SLAM/FastLio系列/素材/Pasted image 20240527134928.png",
+    "SLAM/Lio-SLAM/Lio-Gnss-Fusion/VIO或者LIO和GNSS信号对齐.md",
+    "SLAM/Lio-SLAM/FastLio系列/FastLio1和2——算法架构.md",
+    "Sensors/SensorsCalibration/RadarCalibration/Radar-Calibration.md",
     "学术期刊/ICRA/ICRA2024/江博大佬分享ICRA2024.md",
     "SLAM/FastLio系列/未命名.canvas",
-    "SLAM/FastLio系列/FastLio2代码深撸——量测更新部分.md",
+    "SLAM/Lio-SLAM/FastLio系列/FastLio2代码深撸——量测更新部分.md",
     "SLAM/Lio-Gnss-Fusion/GNSS和Lidar坐标系定义.canvas",
     "SLAM/Lio-Gnss-Fusion/未命名.canvas",
-    "LidarOdometry/Lidar Scan Register.md",
     "Coding/ros——MultiThreadedSpinner多线程处理高频率消息发布.md",
-    "[[FAST-LIO2_Fast_Direct_LiDAR-Inertial_Odometry.pdf.md",
-    "SLAM.md",
-    "自动驾驶.md",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "Welcome.md",
-    "test.md"
+    "未命名 1.canvas"
   ]
 }
