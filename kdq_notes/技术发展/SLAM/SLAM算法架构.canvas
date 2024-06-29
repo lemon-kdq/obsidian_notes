@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"afc1b94ac2063b0c","type":"text","text":"特征关联","x":63,"y":-238,"width":137,"height":60},
+		{"id":"ab1ff1605ed23f45","type":"text","text":"特征提取\n","x":-160,"y":-238,"width":120,"height":60},
+		{"id":"1de08b51feb100b2","type":"text","text":"位姿估计","x":300,"y":-238,"width":180,"height":60},
+		{"id":"77a3fe275209bcf4","type":"text","text":"重定位","x":560,"y":-238,"width":137,"height":60},
+		{"id":"1881a9d5b9053d5c","type":"text","text":"建图","x":322,"y":-80,"width":137,"height":50}
+	],
+	"edges":[
+		{"id":"b067bc0807c278a8","fromNode":"ab1ff1605ed23f45","fromSide":"right","toNode":"afc1b94ac2063b0c","toSide":"left"},
+		{"id":"d82ea9f6e5a71f50","fromNode":"afc1b94ac2063b0c","fromSide":"right","toNode":"1de08b51feb100b2","toSide":"left"},
+		{"id":"8ac88ef014be60d0","fromNode":"ab1ff1605ed23f45","fromSide":"bottom","toNode":"1881a9d5b9053d5c","toSide":"left"},
+		{"id":"f5fc3af79821ee33","fromNode":"1de08b51feb100b2","fromSide":"bottom","toNode":"1881a9d5b9053d5c","toSide":"top"},
+		{"id":"0fc854726682be26","fromNode":"1881a9d5b9053d5c","fromSide":"right","toNode":"77a3fe275209bcf4","toSide":"bottom"},
+		{"id":"26a9893ee8c2e0b5","fromNode":"1de08b51feb100b2","fromSide":"right","toNode":"77a3fe275209bcf4","toSide":"left"},
+		{"id":"810eba313320551f","fromNode":"77a3fe275209bcf4","fromSide":"right","toNode":"1881a9d5b9053d5c","toSide":"bottom"}
+	]
+}
