@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "8c4fa7800216e058",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21caa91255a8450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4230225bec44226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/docker 上部署gitlab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a314cf7b578aa21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/docker 上部署gitlab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b443f6d228deed3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/docker设置代理实现dockerhub正常下载.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a103489c3a6b07b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/docker部署harbor——私人docker image存储服务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "878590ccc54a270b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/android-studio使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e01b87761d370968",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ac841394a6be4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586c99686a2a2e14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e19f2449027b4049",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe7df3e56eddac02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07028775b9f400d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab596f57744e2d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c5d6bf590e22f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "android/android-studio使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1a2b0f462e1f3b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "android/android-studio使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea26848b553c5099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "165e869fbe2d194e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "android/android-studio使用.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "586c99686a2a2e14",
+  "lastOpenFiles": [
+    "ubuntu",
+    "docker/docker部署harbor——私人docker image存储服务.md",
+    "android",
+    "docker/docker 上部署gitlab.md",
+    "docker",
+    "docker/docker设置代理实现dockerhub正常下载.md",
+    "ubuntu/Tmux使用.md",
+    "android/android-studio使用.md",
+    "Untitled 1"
+  ]
+}
