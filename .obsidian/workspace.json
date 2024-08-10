@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/android-studio使用.md",
+                "file": "docker/docker 上部署gitlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/android-studio使用.md",
+                "file": "docker/docker 上部署gitlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/android-studio使用.md"
+                "file": "docker/docker 上部署gitlab.md"
               }
             }
           }
