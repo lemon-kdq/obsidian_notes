@@ -10,7 +10,8 @@ https://www.youtube.com/watch?v=H-XBVD1Y8Qs
 2. 修改root密码 
 		docker exec -it gitlab1 grep 'Password:' /etc/gitlab/initial_root_password
 	通过上述指令可以活得root用户的密码，然后登陆localhost:8080可以访问gitlab网页
-
+	**Note： 第一次运行gitlab要等5分钟左右**
+	
 
 3. 修改root密码 
 	  左上角管理员人头像 -> Edit Profile -> 左边栏Password -> 修改密码

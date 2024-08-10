@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/android-studio使用.md",
+                "file": "docker/docker 上部署gitlab.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,16 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "586c99686a2a2e14",
+  "active": "878590ccc54a270b",
   "lastOpenFiles": [
+    "android/android-studio使用.md",
+    "docker/docker 上部署gitlab.md",
     "ubuntu",
     "docker/docker部署harbor——私人docker image存储服务.md",
     "android",
-    "docker/docker 上部署gitlab.md",
     "docker",
     "docker/docker设置代理实现dockerhub正常下载.md",
     "ubuntu/Tmux使用.md",
-    "android/android-studio使用.md",
     "Untitled 1"
   ]
 }
