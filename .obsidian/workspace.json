@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker 上部署gitlab.md",
+                "file": "Inmo/Inmo——双麦降噪项目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e1f0f561f7cccbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常用密码.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker 上部署gitlab.md",
+                "file": "常用密码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker 上部署gitlab.md",
+                "file": "常用密码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker 上部署gitlab.md"
+                "file": "常用密码.md"
               }
             }
           }
@@ -195,16 +207,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "878590ccc54a270b",
+  "active": "5e1f0f561f7cccbf",
   "lastOpenFiles": [
-    "android/android-studio使用.md",
-    "docker/docker 上部署gitlab.md",
-    "ubuntu",
+    "Inmo/Inmo——双麦降噪项目.md",
+    "常用密码.md",
+    "ubuntu/Tmux使用.md",
+    "Inmo",
     "docker/docker部署harbor——私人docker image存储服务.md",
+    "docker/docker 上部署gitlab.md",
+    "docker/docker常用指令.md",
+    "android/android-studio使用.md",
+    "ubuntu/git/git 添加.md",
+    "ubuntu/git",
+    "docker/docker设置代理实现dockerhub正常下载.md",
+    "ubuntu",
     "android",
     "docker",
-    "docker/docker设置代理实现dockerhub正常下载.md",
-    "ubuntu/Tmux使用.md",
     "Untitled 1"
   ]
 }
