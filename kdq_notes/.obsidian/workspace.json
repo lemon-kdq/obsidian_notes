@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兼职/Inmo/microphones/语音降噪技术——开源算法.md",
+                "file": "兼职/Inmo/Inmo——项目计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兼职/Inmo/microphones/语音降噪技术——开源算法.md",
+                "file": "兼职/Inmo/Inmo——项目计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "兼职/Inmo/microphones/语音降噪技术——开源算法.md",
+                "file": "兼职/Inmo/Inmo——项目计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兼职/Inmo/microphones/语音降噪技术——开源算法.md"
+                "file": "兼职/Inmo/Inmo——项目计划.md"
               }
             }
           },
@@ -174,9 +174,11 @@
   },
   "active": "381d1a01d493c3a4",
   "lastOpenFiles": [
-    "兼职/Inmo/microphones/语音降噪技术——相关文章.md",
     "兼职/Inmo/microphones/语音降噪技术——开源算法.md",
     "兼职/Inmo/microphones/语音降噪技术——开源算法.pdf",
+    "兼职/Inmo/Inmo——项目计划.md",
+    "Pasted image 20240917224525.png",
+    "兼职/Inmo/microphones/语音降噪技术——相关文章.md",
     "兼职/补课/物理/初二上学期/光的折射和透镜.md",
     "兼职/补课/物理/初二上学期/物态变化.md",
     "().md",
@@ -210,7 +212,6 @@
     "兼职/补课/学生档案/梓涵/梓涵——数学错题分析以及对其教学方法的研究.md",
     "Obsidian/Obsidian中文教程.md",
     "兼职/补课/康桥教学计划/2023-2024 G7数学上.md",
-    "技术发展/SLAM/未命名/未命名.md",
-    "Obisidian中文[教程]().md"
+    "技术发展/SLAM/未命名/未命名.md"
   ]
 }
