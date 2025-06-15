@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5626dc09ae365dbe","x":-200,"y":-100,"width":119,"height":60,"type":"text","text":"IMU"},
+		{"id":"cd8c348287cd15ce","x":22,"y":48,"width":250,"height":60,"type":"text","text":"加速度计"},
+		{"id":"65a0fb9c783072d7","x":22,"y":-280,"width":250,"height":60,"type":"text","text":"陀螺仪"},
+		{"id":"502c382af5adda19","x":420,"y":-580,"width":250,"height":60,"type":"text","text":"机械陀螺"},
+		{"id":"4b9365be98425b2e","x":412,"y":-402,"width":250,"height":60,"type":"text","text":"MEMS陀螺"},
+		{"id":"fbd03f30b4b1c848","x":399,"y":-227,"width":250,"height":60,"type":"text","text":"光纤陀螺"},
+		{"id":"a41af3f0f60f25d7","x":401,"y":-86,"width":250,"height":60,"type":"text","text":"激光陀螺"}
+	],
+	"edges":[
+		{"id":"2952c1728e968743","fromNode":"5626dc09ae365dbe","fromSide":"right","toNode":"65a0fb9c783072d7","toSide":"left"},
+		{"id":"e43e66b3369c1484","fromNode":"5626dc09ae365dbe","fromSide":"right","toNode":"cd8c348287cd15ce","toSide":"left"},
+		{"id":"59115b61f2abfcca","fromNode":"65a0fb9c783072d7","fromSide":"right","toNode":"502c382af5adda19","toSide":"left"},
+		{"id":"085fa0a6168ca525","fromNode":"65a0fb9c783072d7","fromSide":"right","toNode":"4b9365be98425b2e","toSide":"left"},
+		{"id":"64142ce2f7fcee9f","fromNode":"65a0fb9c783072d7","fromSide":"right","toNode":"fbd03f30b4b1c848","toSide":"left"},
+		{"id":"70480f8f86a11957","fromNode":"65a0fb9c783072d7","fromSide":"right","toNode":"a41af3f0f60f25d7","toSide":"left"}
+	]
+}
