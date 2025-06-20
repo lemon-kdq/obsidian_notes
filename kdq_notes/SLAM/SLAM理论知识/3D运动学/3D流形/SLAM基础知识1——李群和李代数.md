@@ -133,6 +133,15 @@ exp([\boldsymbol\phi]_\times) = \underset{n=0}{\overset{\infty}{\sum}} \frac{[\b
 $$
 同时令$\boldsymbol \phi = \theta \boldsymbol u,其中\theta = \|\boldsymbol \phi\|,\boldsymbol u = \frac{\boldsymbol \phi}{\theta} = [x,y,z]^T$ ，则有： 
 $$
-[\boldsymbol u]_\times ^ 2 = \begin{bmatrix} 0 & -z & y \\ z & 0&-x\\-y & x&0  \end{bmatrix}\begin{bmatrix} 0 & -z & y \\ z & 0&-x\\-y & x&0  \end{bmatrix}=\begin{bmatrix} x^2-1 & xy & xz \\ yx & y^2-1&zx\\zx & zy&z^2-1  \end{bmatrix}=\boldsymbol{u}\boldsymbol{u^T} - \boldsymbol{I}
-
+[\boldsymbol u]_\times ^ 2 = \begin{bmatrix} 0 & -z & y \\ z & 0&-x\\-y & x&0  \end{bmatrix}\begin{bmatrix} 0 & -z & y \\ z & 0&-x\\-y & x&0  \end{bmatrix}=\begin{bmatrix} x^2-1 & xy & xz \\ yx & y^2-1&zx\\zx & zy&z^2-1  \end{bmatrix}=\boldsymbol{u}\boldsymbol{u^T} - \boldsymbol{I} \\ \tag{10}
 $$
+$$
+[\boldsymbol u]_\times ^ 3 = \begin{bmatrix} x^2-1 & xy & xz \\ yx & y^2-1&zx\\zx & zy&z^2-1  \end{bmatrix}\begin{bmatrix} 0 & -z & y \\ z & 0&-x\\-y & x&0  \end{bmatrix}=\begin{bmatrix} 0 & z & -y \\ -z & 0&x\\y & -x&0  \end{bmatrix}=-[\boldsymbol{u}]_\times\tag{11} 
+$$
+讲公式(10)和(11)带入公式(9)得： 
+$$
+exp([\boldsymbol{\phi}]_\times)=\boldsymbol I + \theta [\boldsymbol{u}]_\times + \frac{\theta ^ 2}{2!}[\boldsymbol u]_\times ^ 2+  \frac{\theta ^ 3}{3!}[\boldsymbol u]_\times ^ 3+ \frac{\theta ^ 4}{4!}[\boldsymbol u]_\times ^ 4+ ... 
+$$
+
+
+
